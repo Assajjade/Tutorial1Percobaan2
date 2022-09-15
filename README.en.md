@@ -1,3 +1,6 @@
+Nama  : Abdillah Assajjad
+NPM   : 2106653571
+
 # PBP Django Project Template
 
 Platform-Based Programming (CSGE602022) - Organized by the Faculty of Computer Science Universitas Indonesia, Odd Semester 2022/2023
